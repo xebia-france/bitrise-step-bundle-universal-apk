@@ -27,7 +27,7 @@ echo "apk name ${apk_name}"
 
 bundletool="${temp_path}/bundletool.jar"
 keystore="${temp_path}/keystore.jks"
-source="https://github.com/google/bundletool/releases/download/0.8.0/bundletool-all-0.8.0.jar"
+source="https://github.com/google/bundletool/releases/download/1.8.1/bundletool-all-1.8.1.jar"
 
 # Building
 aab_output_path="${temp_path}/output/bundle"
